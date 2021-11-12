@@ -1,0 +1,15 @@
+.ul{
+	list-style: none;
+	display: flex;
+	align-items: center;
+}
+
+.link{
+	color: #edfa00;
+	font-size: 24px;
+	text-decoration: none;
+	margin-left: 10px;
+}
+.link:last-child{
+	margin-right: 10px;
+}
